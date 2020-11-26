@@ -1,0 +1,54 @@
+#mainSlider .carousel-caption{
+	font-size:20px;
+	bottom:5%;
+	right:5%;
+	width:450px;
+	left:auto;
+	text-align:right;
+	background-color:#80808063;
+	
+	
+}
+section{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+#header .dropdown-menu{
+	min-width: 5rem;
+}
+#header .active{
+	background-color:black;
+	color:blue;
+	padding-left: 5px;
+	padding-right: 5px;
+} 
+
+.glyphicon {
+margin-right:4px !important;/*override*/
+}
+.pagination .glyphicon {
+margin-right:0px !important;/*override*/
+}
+.pagination a {
+color:#555;
+}
+.panel ul {
+padding:0px;
+margin:0px;
+list-style:none;
+}
+.news-item {
+padding:4px 4px;
+margin:0px;
+border-bottom:1px dotted #555;
+}
+
+
+
+
+@media (min-width: 768px) {
+.bd-placeholder-img-lg {
+  font-size: 3.5rem;
+}
+}
+
